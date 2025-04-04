@@ -3,7 +3,6 @@
 - 😄 Pronouns: web, AI, db
 - 📫 How to reach me: sy.jeong100@gmail.com
 
--Cylinder
 
 <!--
 **suyeong-jeong/suyeong-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
