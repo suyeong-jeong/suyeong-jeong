@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&suyeoung-jeong&color=auto&height=300&section=header&text=Nice%20To%20Meet%20You)
 
+##😳 안녕하세요, 컴퓨터공학전공 정수영입니다.
+
 ##👀 About Me
 - 🌱 I enjoy learning new skills.
 - 😄 Pronouns: web, AI, db
