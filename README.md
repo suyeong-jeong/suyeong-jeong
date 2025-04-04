@@ -1,9 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&suyeoung-jeong&color=auto&height=300&section=header&text=Nice%20To%20Meet%20You)
+
 ## Hi there 👋
 - 🌱 I enjoy learning new skills.
 - 😄 Pronouns: web, AI, db
 - 📫 How to reach me: sy.jeong100@gmail.com
 - 
-![header](https://capsule-render.vercel.app/api?type=cylinder&suyeoung-jeong&color=auto&height=300&section=header&text=Nice%20TO%20Meet%20You)
 
 
 <!--
