@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 새로운 기술을 배우는 것을 좋아합니다.
+- 😄 관심 분야: 웹 개발, AI, 데이터 분석
+- 📫 연락 방법: 이메일 또는 GitHub 메시지
 
 <!--
 **suyeong-jeong/suyeong-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
